@@ -1,7 +1,5 @@
 # Interview Flashcards (React Native / Expo) — Scaffold Pack
 
-This zip is **NOT** a full Expo project. It’s the **app-specific files** (screens, DB, repos, session logic, LLM stubs, sample data seeding) you can drop into a fresh Expo TS app.
-
 ## 1) Generate the Expo project (TypeScript)
 ```bash
 npx create-expo-app interview-flashcards --template expo-template-blank-typescript
